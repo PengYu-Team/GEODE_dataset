@@ -1,0 +1,3 @@
+[submodule "rosbag_extractor"]
+	path = rosbag_extractor
+	url = git@github.com:thisparticle/rosbag_extractor.git
