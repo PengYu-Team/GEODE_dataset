@@ -8,7 +8,7 @@
 
 ## News
 
-- (20240831) Data can be downloaded from [GEODE - Google Drive](https://drive.google.com/drive/u/1/folders/1hEn3sBAvQhSdUFnGMZCCv-W0Ynj2rWBs).
+- (20240831) Data can be downloaded from [GEODE - Google Drive](https://drive.google.com/drive/folders/1hEn3sBAvQhSdUFnGMZCCv-W0Ynj2rWBs?usp=sharing).
 - (20240816) Dataset README is avaliable.
 
 ## Overview
@@ -16,7 +16,7 @@
 ### Usage Steps
 
 1. Review the overview of the GEODE dataset, including details about sensors, definitions of ROS topics and messages, and important caveats regarding localization evaluation.
-2. Download the dataset from [GEODE - Google Drive](https://drive.google.com/drive/u/1/folders/1hEn3sBAvQhSdUFnGMZCCv-W0Ynj2rWBs). Additional information about each sequence and scenario is available on our homepage. Additional download options for users in Mainland China will be made available in the future.
+2. Download the dataset from [GEODE - Google Drive](https://drive.google.com/drive/folders/1hEn3sBAvQhSdUFnGMZCCv-W0Ynj2rWBs?usp=sharing). Additional information about each sequence and scenario is available on our homepage. Additional download options for users in Mainland China will be made available in the future.
 3. Adapt your SLAM algorithm using the provided dataset parameters, and calculate the error after obtaining the results.
 
 ### Sensors
