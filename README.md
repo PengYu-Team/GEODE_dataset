@@ -102,7 +102,7 @@ Click the button below to access detailed information (including scenarios, dege
 
 ## Publications
 
-1. **GEODE Dataset: Extending the Robustness of LiDAR SLAM to GEOmetrically DEgenerate Scenarios  **
+1. **Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**
    Zhiqiang Chen, *Yuhua Qi*, etc.
    *Under Review*
    [[Arxiv\]](https://arxiv.org/abs/)
