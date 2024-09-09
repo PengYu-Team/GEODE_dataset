@@ -6,9 +6,9 @@
 
 > **TL;DR**: *A comprehensive multi-LiDAR, multi-scenario dataset that extensively incorporates segments of real-world geometric degeneracy.*
 
-![image-20240909194204160](C:\Users\Chen Zhiqiang\AppData\Roaming\Typora\typora-user-images\image-20240909194204160.png)
+![image-20240909194424089](C:\shige\@github\GEODE_dataset\README.assets\image-20240909194424089.png)
 
-![image-20240909194237109](C:\Users\Chen Zhiqiang\AppData\Roaming\Typora\typora-user-images\image-20240909194237109.png)
+![image-20240909194439292](C:\shige\@github\GEODE_dataset\README.assets\image-20240909194439292.png)
 
 ## News
 
