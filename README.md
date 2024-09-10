@@ -6,14 +6,14 @@
 
 > **TL;DR**: *A comprehensive multi-LiDAR, multi-scenario dataset that extensively incorporates segments of real-world geometric degeneracy.*
 
-![image-20240909194424089](C:\shige\@github\GEODE_dataset\README.assets\image-20240909194424089.png)
+![image-20240909194424089](README.assets/image-20240909194424089.png)
 
-![image-20240909194439292](C:\shige\@github\GEODE_dataset\README.assets\image-20240909194439292.png)
+![image-20240909194439292](README.assets/image-20240909194439292.png)
 
 ## News
 
-- (20240831) Data can be downloaded from [GEODE - Google Drive](https://drive.google.com/drive/folders/1hEn3sBAvQhSdUFnGMZCCv-W0Ynj2rWBs?usp=sharing).
-- (20240816) Dataset README is avaliable.
+- (20240910) Data can be downloaded from [GEODE - Google Drive](https://drive.google.com/drive/folders/1hEn3sBAvQhSdUFnGMZCCv-W0Ynj2rWBs?usp=sharing).
+- (20240910) Dataset README is avaliable.
 
 ## Overview
 
