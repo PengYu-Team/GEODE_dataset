@@ -2,7 +2,7 @@
 
 #### Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios  
 
-| [Webpage](https://geode.github.io/) | [Full Paper](https://arxiv.org/abs/) |
+| [Webpage](https://thisparticle.github.io/geode/) | [Full Paper](https://arxiv.org/abs/2409.04961) |
 
 > **TL;DR**: *A comprehensive multi-LiDAR, multi-scenario dataset that extensively incorporates segments of real-world geometric degeneracy.*
 
@@ -107,9 +107,9 @@ Click the button below to access detailed information (including scenarios, dege
 ## Publications
 
 1. **Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**
-   Zhiqiang Chen, *Yuhua Qi*, etc.
+   Zhiqiang Chen, Yuhua Qi, Dapeng Feng, Xuebin Zhuang, Hongbo Chen, Xiangcheng Hu, Jin Wu, Kelin Peng, Peng Lu
    *Under Review*
-   [[Arxiv\]](https://arxiv.org/abs/)
+   [[Arxiv\]](https://arxiv.org/abs/2409.04961)
 
 ## Contact
 
