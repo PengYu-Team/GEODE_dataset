@@ -84,7 +84,7 @@ For the “stair” sequence, we obtain the ground truth pose by using the [PALo
 
 Click the button below to access detailed information (including scenarios, degeneration types, etc.) and to download the dataset.
 
-[Homepage of GEODE dataset](https://geode.github.io/)
+[Homepage of GEODE dataset](https://thisparticle.github.io/geode/)
 
 ## Related Links
 
@@ -94,7 +94,7 @@ Click the button below to access detailed information (including scenarios, dege
 
 * SubT-MRS: Pushing SLAM Towards All-weather Environments, CVPR, 2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_SubT-MRS_Dataset_Pushing_SLAM_Towards_All-weather_Environments_CVPR_2024_paper.pdf)] [[website](https://superodometry.com/datasets)]
 * [ENWIDE Dataset](https://projects.asl.ethz.ch/datasets/enwide) (related paper: COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry, ICRA, 2024. [[arXiv](https://arxiv.org/abs/2310.01235)] [[code](https://github.com/ethz-asl/COIN-LIO)])
-* [LiDAR Degeneracy Datasets](https://github.com/ntnu-arl/lidar_degeneracy_datasets) (related paper: COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry, ICRA, 2024. [[arXiv](https://arxiv.org/abs/2310.01235)] [[code](https://github.com/ethz-asl/COIN-LIO)])
+* [LiDAR Degeneracy Datasets](https://github.com/ntnu-arl/lidar_degeneracy_datasets) (related paper: Degradation Resilient LiDAR-Radar-Inertial Odometry, ICRA, 2024. [[arXiv](https://arxiv.org/abs/2403.05332)])
 * WHU-Helmet: A helmet-based multi-sensor SLAM dataset for the evaluation of real-time 3D mapping in large-scale GNSS-denied environments, IEEE Transactions on Geoscience and Remote Sensing, 2023. [[paper](https://ieeexplore.ieee.org/document/10123040/)] [[website](https://github.com/kafeiyin00/WHU-HelmetDataset)]
 
 * Open-source datasets released by the SubT teams
