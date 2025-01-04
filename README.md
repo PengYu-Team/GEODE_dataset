@@ -2,7 +2,7 @@
 
 #### Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios  
 
-| [Webpage](https://thisparticle.github.io/geode/) | [Full Paper](https://arxiv.org/abs/2409.04961) |
+| [Webpage](https://thisparticle.github.io/geode/) | [Full Paper](https://arxiv.org/abs/2409.04961) | [Dataset Download](https://drive.google.com/drive/folders/1hEn3sBAvQhSdUFnGMZCCv-W0Ynj2rWBs?usp=sharing)
 
 > **TL;DR**: *A comprehensive multi-LiDAR, multi-scenario dataset that extensively incorporates segments of real-world geometric degeneracy.*
 
