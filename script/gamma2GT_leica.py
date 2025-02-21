@@ -58,7 +58,7 @@ if __name__ == '__main__':
                 np.array([0, 0, 0, 1])))
     print( T)
 
-    raw_folder = "./offroad"
+    raw_folder = "./shield_tunnel1"
     output_folder = "./tran2body"
 
     for file_name in os.listdir(raw_folder):

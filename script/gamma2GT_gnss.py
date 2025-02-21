@@ -40,11 +40,11 @@ if __name__ == '__main__':
     # -0.0108864 0.293397 -0.452674 0.999991 0.000903519 0.0035434 -0.00220342
     # 0.00947221 -0.308202 -0.365733 0.999901 -0.00492765 0.00575961 0.0117651
     # bob
-    qw, qx, qy, qz = 0.999991, 0.000903519, 0.0035434, -0.00220342  # quant   
-    t = np.array([-0.0108864, 0.293397, -0.452674])  # translation
+    # qw, qx, qy, qz = 0.999991, 0.000903519, 0.0035434, -0.00220342  # quant   
+    # t = np.array([-0.0108864, 0.293397, -0.452674])  # translation
     # carol
-    # qw, qx, qy, qz = 0.999901, -0.00492765, 0.00575961, 0.0117651  # quant   
-    # t = np.array([0.00947221, -0.308202, -0.365733])  # translation
+    qw, qx, qy, qz = 0.9998828, -0.0057758, 0.0022253, 0.0140019  # quant   
+    t = np.array([0.0305, -0.5959, 0.0902])  # translation
 
     R = np.array([[1 - 2*qy**2 - 2*qz**2, 2*qx*qy - 2*qz*qw, 2*qx*qz + 2*qy*qw],
                 [2*qx*qy + 2*qz*qw, 1 - 2*qx**2 - 2*qz**2, 2*qy*qz - 2*qx*qw],
@@ -58,7 +58,7 @@ if __name__ == '__main__':
                 np.array([0, 0, 0, 1])))
     print( T)
 
-    raw_folder = "./Offroad1_alpha_rect"
+    raw_folder = "./Offroad1"
     output_folder = "./tran2body"
 
     for file_name in os.listdir(raw_folder):
