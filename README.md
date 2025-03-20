@@ -12,6 +12,7 @@
 
 ## News
 
+- (20250309) $$\color{red}{\text{Accepted by IJRR!}}$$
 - (20241025) The metadata.json file for the OS1-64 used in the Beta platform can be accessed via the following link: [Google Drive](https://drive.google.com/file/d/1mkB0DFR0Fv3YcI1frnZNxi5AEhObKXbA/view).
 - (20240910) Data can be downloaded from [GEODE - Google Drive](https://drive.google.com/drive/folders/1hEn3sBAvQhSdUFnGMZCCv-W0Ynj2rWBs?usp=sharing).
 - (20240910) Dataset README is avaliable.
