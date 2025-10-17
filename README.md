@@ -11,7 +11,7 @@
 ![image-20240909194439292](README.assets/image-20240909194439292.png)
 
 ## News
-
+- (20251017) 数据集提供百度网盘下载地址：链接: https://pan.baidu.com/s/19t2WhhUvNnNqKX0zLDhRIA?pwd=sysu 提取码: sysu
 - (20250309) $$\color{red}{\text{Accepted by IJRR!}}$$
 - (20241025) The metadata.json file for the OS1-64 used in the Beta platform can be accessed via the following link: [Google Drive](https://drive.google.com/file/d/1mkB0DFR0Fv3YcI1frnZNxi5AEhObKXbA/view).
 - (20240910) Data can be downloaded from [GEODE - Google Drive](https://drive.google.com/drive/folders/1hEn3sBAvQhSdUFnGMZCCv-W0Ynj2rWBs?usp=sharing).
